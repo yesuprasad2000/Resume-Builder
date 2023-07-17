@@ -1,0 +1,32 @@
+[
+    {
+        "name":"HTML",
+        "image":"images/html.png"
+
+    },
+    {
+        "name":"CSS",
+        "image":"images/css.png"
+
+    },
+    {
+        "name":"JAVASCRIPT",
+        "image":"images/js.png"
+    },
+    {
+        "name":"Boostrap",
+        "image":"images/Boostrap.png"
+
+    },
+    {
+        "name":"Typescript",
+        "image":"images/typescritpt.png"
+
+    },
+    {
+        "name":"Angular",
+        "image":"images/angu.png"       
+
+    }
+
+]
